@@ -1,0 +1,2 @@
+#!/bin/bash
+heard -n 3 iacta | tail -n 1
